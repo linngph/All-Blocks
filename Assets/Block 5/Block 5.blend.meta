@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: a492ebc8d20403c4cb6aafb8feac9435
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Animals
+    second: {fileID: 2100000, guid: 9fb1c33c8f1d955479229b7fa48df751, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Animals_2
+    second: {fileID: 2100000, guid: 88a65dd0a5f68c34c8d45b2bb531f2c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_Material
+    second: {fileID: 2100000, guid: 3e845bfeee7065944aec220196458d6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GGP04E_Pelakauskas_Juozas_MAINBottle_1_Mat
+    second: {fileID: 2100000, guid: 012f2cf7c4ac36d41bf3fd92a2211496, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GGP04E_Pelakauskas_Juozas_MAINBottle_2_Mat
+    second: {fileID: 2100000, guid: e87c2bef3ae13bf42b57d4d470271b2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GGP04E_Pelakauskas_Juozas_MAINBottle_Box
+    second: {fileID: 2100000, guid: 1c22688dd1fb0ec479403dc46821d69c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GGP04E_Pelakauskas_Juozas_MAINCar_Mat
+    second: {fileID: 2100000, guid: 0c14746776de0134b915393c1e80980c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GGP04E_Pelakauskas_Juozas_MAINDecal_Leaves
+    second: {fileID: 2100000, guid: 607232480722a16449f023c0ea357016, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GGP04E_Pelakauskas_Juozas_MAINGround_Beach
+    second: {fileID: 2100000, guid: 89375f9648f6bfa458eebd5a224a7202, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GGP04E_Pelakauskas_Juozas_MAINGround_Car
+    second: {fileID: 2100000, guid: e1697f620d289584d8f6e3b0a0535444, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GGP04E_Pelakauskas_Juozas_MAINGround_Farm
+    second: {fileID: 2100000, guid: a0de168866681384b92a773b719c7641, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GGP04E_Pelakauskas_Juozas_MAINGround_Grass
+    second: {fileID: 2100000, guid: 825ddc2a2bea0e946907473d2306cc1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GGP04E_Pelakauskas_Juozas_MAINGround_Leaves
+    second: {fileID: 2100000, guid: b108836879d9842418765ce0c8c19492, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GGP04E_Pelakauskas_Juozas_MAINGround_Path
+    second: {fileID: 2100000, guid: bd9d90a376171a64a8e28f39d2521fbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GGP04E_Pelakauskas_Juozas_MAINGround_Rocks
+    second: {fileID: 2100000, guid: 596f6088715d235458905fd7d2b4e5bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GGP04E_Pelakauskas_Juozas_MAINGround_Sand
+    second: {fileID: 2100000, guid: acad94399cf50094b870f9853c5d1c7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GGP04E_Pelakauskas_Juozas_MAINGround_Transition
+    second: {fileID: 2100000, guid: 2793bc0a95d657244874365ab7a3d5bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GGP04E_Pelakauskas_Juozas_MAINGround_Underwater
+    second: {fileID: 2100000, guid: 2c6cba51981dbae4c950c33e3eeff34a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GGP04E_Pelakauskas_Juozas_MAINGround_Water
+    second: {fileID: 2100000, guid: 31c7b056447889c47a967b1e2f435252, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GGP04E_Pelakauskas_Juozas_MAINHouse_2k
+    second: {fileID: 2100000, guid: cd32d707d6495dc4d8ed82279716f6db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GGP04E_Pelakauskas_Juozas_MAINHouse_Brick
+    second: {fileID: 2100000, guid: b5c06fe406ce8a7439fd5baa1ee41739, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GGP04E_Pelakauskas_Juozas_MAINHouse_Roof
+    second: {fileID: 2100000, guid: cfa1444698a17444faa12cfbe9f3e5a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GGP04E_Pelakauskas_Juozas_MAINHouse_Step_Curtain
+    second: {fileID: 2100000, guid: 384a3c7449dc92641b7dd46f31f32b6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GGP04E_Pelakauskas_Juozas_MAINHouse_Tiles
+    second: {fileID: 2100000, guid: 3cb9e675ffaafcd44bb2d6165c9e8150, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GGP04E_Pelakauskas_Juozas_MAINHouse_Trim
+    second: {fileID: 2100000, guid: 769736f1b37e29145b2b2dccbe236ebc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GGP04E_Pelakauskas_Juozas_MAINHouse_Void
+    second: {fileID: 2100000, guid: 716ac69a5944d4a43b06bd9c7c93644c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GGP04E_Pelakauskas_Juozas_MAINHouse_Water_Tank1
+    second: {fileID: 2100000, guid: 6797e83f3a95ee044801ec16ef3d852d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GGP04E_Pelakauskas_Juozas_MAINHouse_Wndw_Rlng
+    second: {fileID: 2100000, guid: 4eff71c9b787750488960bf8cf3017d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GGP04E_Pelakauskas_Juozas_MAINHouse_Wood_1
+    second: {fileID: 2100000, guid: c5dab78e3e377b44d942df8b4c88cf9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GGP04E_Pelakauskas_Juozas_MAINHouse_Wood_2
+    second: {fileID: 2100000, guid: 3fe911012a59df640adbf3b5123999a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GGP04E_Pelakauskas_Juozas_MAINHouse_Wood_3
+    second: {fileID: 2100000, guid: 3bd53597b847a7f4cae109004a256b35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GGP04E_Pelakauskas_Juozas_MAINPlant_Grass
+    second: {fileID: 2100000, guid: 53384e3d154b6274a80ec47ffad7f2c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GGP04E_Pelakauskas_Juozas_MAINPlant_Water
+    second: {fileID: 2100000, guid: adcf3038d414e8e4b91886d8405f9c82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GGP04E_Pelakauskas_Juozas_MAINPlants_Garden
+    second: {fileID: 2100000, guid: 9f3eecf8c9b8fba4f81a92aa9b363e37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GGP04E_Pelakauskas_Juozas_MAINTools_Shovels_Rakes
+    second: {fileID: 2100000, guid: d2f4a383867ae2d4fb0b8dbc19f20696, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GGP04E_Pelakauskas_Juozas_MAINTools_Wheelbarow_Scythe
+    second: {fileID: 2100000, guid: a9d93c2344f8a2542b162fe17a652ba3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GGP04E_Pelakauskas_Juozas_MAINTree_Birch
+    second: {fileID: 2100000, guid: 676a674d44272a1419417e66f6750b73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GGP04E_Pelakauskas_Juozas_MAINTree_Birch_Leaves
+    second: {fileID: 2100000, guid: 3a56410b7b9738d45a477f11c9ae1252, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GGP04E_Pelakauskas_Juozas_MAINTree_Pine
+    second: {fileID: 2100000, guid: 014c4ff272e842845824f9d236c8fd73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GGP04E_Pelakauskas_Juozas_MAINTree_Pine_Branches
+    second: {fileID: 2100000, guid: 4cf55b1bd8e9146478838b1592bad76c, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
